@@ -1,4 +1,5 @@
 # Multi-mode Fault Diagnosis Datasets of Three-phase Asynchronous Motor Under Variable Working Conditions
+<img width="666" alt="截屏2026-01-06 12 36 22" src="https://github.com/user-attachments/assets/8901f731-e80a-411f-9734-550b543e5b60" />
 
 ## Overview
 This repository provides a comprehensive multi-source dataset collected from a **2.2 kW three-phase asynchronous (induction) motor** operating under **variable speed/load conditions**. The dataset is designed for developing and validating robust fault diagnosis methods under realistic operating scenarios, especially for **time-varying (transitional) conditions**.
@@ -116,3 +117,13 @@ If you use this dataset, please cite:
   year    = {2026}
 }
 ```
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+We extend our sincere gratitude to the THUFDD Group, led by Prof. Xiao He and Prof. Donghua Zhou, for their invaluable support and contributions to the development of this scheme.
+
+We express our gratitude to the MCC5 Group Shanghai Co. LTD and Zhengzhou University for their invaluable support.
+
+
