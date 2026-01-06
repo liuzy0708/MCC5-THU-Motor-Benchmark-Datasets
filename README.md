@@ -10,10 +10,11 @@ Unlike many existing motor datasets that focus on a limited set of faults or ste
 - **Synchronous 8-channel measurements** combining vibration and current information for multi-modal diagnosis
 
 ## Data Availability
+- **Repository Name:** Multi-mode Fault Diagnosis Datasets of Three-phase Asynchronous Motor Under Variable Working Conditions
 - **Direct URL:**
-  - [[IEEE DataPort]]([https://ieee-dataport.org/](https://ieee-dataport.org/documents/multi-mode-fault-diagnosis-datasets-three-phase-asynchronous-motor-under-variable-working))
-  - [[Hugging Face]]([https://huggingface.co/datasets/Samlzy/MCC5-THU-Motor))
-
+  [[IEEE Dataport]](https://ieee-dataport.org/documents/multi-mode-fault-diagnosis-datasets-three-phase-asynchronous-motor-under-variable-working)
+  [[Hugging Face]](https://huggingface.co/datasets/Samlzy/MCC5-THU-Motor)
+  
 ## Tasks
 This dataset can support (but is not limited to) the following research tasks:
 - **Multi-modal Fault Diagnosis (Vibration + Current Fusion)**
