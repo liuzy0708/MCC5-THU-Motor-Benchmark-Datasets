@@ -1,6 +1,15 @@
 # Multi-mode Fault Diagnosis Datasets of Three-phase Asynchronous Motor Under Variable Working Conditions
 <img width="666" alt="截屏2026-01-06 12 36 22" src="https://github.com/user-attachments/assets/8901f731-e80a-411f-9734-550b543e5b60" />
 
+## Related Dataset🔥🔥
+
+A related benchmark dataset for gearbox is also publicly available at:
+
+[**MCC5-THU-Gearbox-Benchmark-Datasets**](https://github.com/liuzy0708/MCC5-THU-Gearbox-Benchmark-Datasets/blob/main/README.md)
+
+Readers interested in gearbox fault diagnosis or cross-system evaluation may find this dataset useful.
+
+
 ## Overview
 This repository provides a comprehensive multi-source dataset collected from a **2.2 kW three-phase asynchronous (induction) motor** operating under **variable speed/load conditions**. The dataset is designed for developing and validating robust fault diagnosis methods under realistic operating scenarios, especially for **time-varying (transitional) conditions**.
 
